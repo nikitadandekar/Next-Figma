@@ -1,5 +1,10 @@
 import Image from "next/image";
+import Home1 from "./Hero/Home1";
 
 export default function Home() {
-  return <div></div>;
+  return (
+    <div>
+      <Home1 />
+    </div>
+  );
 }

@@ -15,7 +15,7 @@ function Header() {
             <Link href="/about">About</Link>
           </div>
           <div className="left-[220px] top-0 absolute text-black text-base font-normal">
-            <Link href="/service">Services</Link>
+            <Link href="/serv">Services</Link>
           </div>
           <div className="left-[320px] top-0 absolute text-black text-base font-normal">
             <Link href="/blog">Blog</Link>

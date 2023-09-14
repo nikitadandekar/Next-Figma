@@ -3,7 +3,7 @@ import images20 from "../../../public/Images/Group.png";
 import Image from "next/image";
 function Footer() {
   return (
-    <div className=" w-[1440px] h-[268px]  ml-60 pt-20  ">
+    <div className=" w-[1440px] h-[400px]  ml-60 pt-20  ">
       <div className="flex m-auto w-[1219px] h-[161px] gap-11   ">
         <div>
           <div className="text-[16px] text-[#00329B] font-bold leading-[24px] pb-9">
@@ -59,7 +59,7 @@ function Footer() {
       </div>
 
       <div className="text-[13px] font-normal text-[#686868] text-center pt-16 border-t-2 border-[rgba(#686868)] mt-14">
-        Copyright ® 2021 Lorem All rights Rcervedr
+        Copyright ® 2021 Lorem All rights Rcerved
       </div>
     </div>
   );
